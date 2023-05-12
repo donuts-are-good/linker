@@ -1,3 +1,6 @@
+# code's still good, but repo is moving to https://github.com/donuts-are-good/connections
+# archiving this repo
+
 # 🦊 linker
 cli tool to view all open network connections and the apps responsible for them
 
